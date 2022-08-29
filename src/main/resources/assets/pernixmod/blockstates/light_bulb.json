@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model":  "pernixmod:block/light_bulb_on" },
+    "lit=false": { "model":  "pernixmod:block/light_bulb_off" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "item.pernixmod.raw_chitin": "Raw Chitin",
+  "item.pernixmod.eight_ball": "Eight Ball",
+  "item.pernixmod.cotton": "Cotton",
+  "item.pernixmod.cotton_seeds": "Cotton Seeds",
+  "item.pernixmod.snail_spawn_egg": "Snail Spawn Egg",
+  "item.pernixmod.snail_bucket": "Bucket of Snail",
+  "item.pernixmod.crab_bucket": "Bucket of Crab",
+  "item.pernixmod.wooden_bucket": "Wooden Bucket",
+
+  "block.pernixmod.chitin_block": "Block of Chitin",
+  "block.pernixmod.jumpy_block": "Jumpy Block",
+  "block.pernixmod.light_bulb": "Light Bulb",
+  "block.pernixmod.cotton_crop": "Cotton Crop",
+
+  "itemGroup.pernixmod.raw_chitin": "Raw Chitin Tab"
+}

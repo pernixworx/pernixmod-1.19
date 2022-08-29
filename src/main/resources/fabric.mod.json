@@ -1,29 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "pernixmod",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Pernix Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "pernix"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/pernixmod/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.pernix.pernixmod.PernixMod"
+    ],
+    "client": [
+      "net.pernix.pernixmod.PernixModClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "pernixmod.mixins.json"
   ],
 
   "depends": {
